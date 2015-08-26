@@ -1,0 +1,3 @@
+In error tests, we only check that you do not blow
+up when given faulty input, such as bad commands like
+this: \parindent{
