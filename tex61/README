@@ -1,8 +1,5 @@
 This directory contains a skeleton for CS61B Project 1.
 
-Although some of what's in here might seem mysterious to you, try to 
-understand what it's all for.  Don't be afraid to ask us about it.
-
 The skeleton files provided in the tex61 subdirectory constitute a
 SUGGESTED design.  You are free to discard, modify, or add ANYTHING,
 ANYWHERE.  However, don't do so without first understanding the design
@@ -16,16 +13,6 @@ works as specified, and that
     java tex61.UnitTest 
 
 works properly to run unit tests.
-
-Run the command 'make style' frequently to help keep your program
-clean.  There are a number of comments scattered throughout the
-skeleton of the form "// FIXME", which the style program will flag.
-This is a good way to remind yourself of what you still need to do.
-It will also remind you to add your name as the @author tag to classes
-you implement.  Do NOT submit this project without getting it to pass
-'make style'! The submission software will reject it, and we will
->>NOT<< accept assignments that are emailed to us because you couldn't
-get the submission software to work!
 
 CONTENTS:
 
